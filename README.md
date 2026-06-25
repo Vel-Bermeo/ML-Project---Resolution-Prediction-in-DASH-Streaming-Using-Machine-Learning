@@ -1,5 +1,3 @@
-# ML-Project---Resolution-Prediction-in-DASH-Streaming-Using-Machine-Learning
-
 # Machine Learning-Based Video Resolution Prediction in DASH Streaming
 
 ## Overview
